@@ -1,4 +1,4 @@
-#CovidBarinasBot
+# CovidBarinasBot
 
 <p align="center">
 <img src="imgreadme/CBB.png"
@@ -10,7 +10,7 @@
 **CovidBarinasBot** Es un bot para telegram hecho en Python para el 2020 con el objetivo de '**informar acerca del COVID-19**', fue realizado como proyecto tecnológico para graduarme en mi Bachillerato.
 
 <p align="center">
-<img src="imgreadme/firstfun.png"
+<img src="imgreadme/firstfun.jpg"
 	alt="First"
 	style="float: left; margin-right: 10px;" />
 </p>
@@ -31,8 +31,7 @@ Si no tiene una respuesta te lo indicará y mostrará botones para que puedas el
 	style="float: left; margin-right: 10px;" />
 </p>
 
-'**Nota:**' 1-El Bot no esta en funcionamiento ahora.
-2-Para el funcionamiento del bot se utiliza la libreria "telbot" que esta en la API pyTelegramBotAPI. 
+'**Nota:**' 1-El Bot no esta en funcionamiento ahora.                                                                                                      2-Para el funcionamiento del bot se utiliza la libreria "telbot" que esta en la API pyTelegramBotAPI. 
 
 *[pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) by [eternnoir](https://github.com/eternnoir)
 
